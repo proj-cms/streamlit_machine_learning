@@ -1,3 +1,8 @@
+##
+# This is sample demo app from the streamlit dev comm
+# the flower info file is localised
+##
+
 import streamlit as st
 import pandas as pd
 from sklearn.model_selection import train_test_split
